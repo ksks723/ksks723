@@ -1,5 +1,5 @@
 ## **Github Stats** 😇
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&text=Hello%20World!&desc=Hello%20Hello&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello%20World!&desc=Hello%20Hello&fontSize=20&rotate=-30)
 
 
 ![git-stat-langs](https://github-readme-stats.vercel.app/api?username=ksks723&count_private=true&show_icons=true&theme=nord&hide_border=true)
