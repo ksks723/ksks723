@@ -1,6 +1,5 @@
 ## **Github Stats** 😇
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&text=Hello%20World!&desc=Hello%20Hello&fontSize=20&rotate=-30)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&desc=Hello%20Hello&fontSize=90&rotate=-7&animation=fadeIn&fontAlignY=38&descAlignY=58&descAlign=62)
 
 ![git-stat-langs](https://github-readme-stats.vercel.app/api?username=ksks723&count_private=true&show_icons=true&theme=nord&hide_border=true)
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=ksks723&layout=compact&hide_border=true&theme=nord)
