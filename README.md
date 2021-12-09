@@ -6,7 +6,7 @@
 [![Velog](https://img.shields.io/badge/Velog-Jaranda-%2325A162?style=flat-square&logo=Vimeo&logoColor=%2325A162)](https://velog.io/@jaranda)
 
 
-![git-stat-langs](https://github-readme-stats.vercel.app/api?username=ksks723&count_private=true&show_icons=true&theme=nord&hide_border=true)
+<!-- ![git-stat-langs](https://github-readme-stats.vercel.app/api?username=ksks723&count_private=true&show_icons=true&theme=nord&hide_border=true) -->
 ![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=ksks723&layout=compact&hide_border=true&theme=nord)
 
  
