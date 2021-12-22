@@ -6,12 +6,13 @@
 [![Velog](https://img.shields.io/badge/Velog-Jaranda-%2325A162?style=flat-square&logo=Vimeo&logoColor=%2325A162)](https://velog.io/@jaranda)
 
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksks723)
 ![git-stat-commit](https://github-readme-stats.vercel.app/api?username=ksks723&count_private=true&show_icons=true&theme=nord&hide_border=true)
 <!-- ![git-stat-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksks723&layout=compact&hide_border=true&theme=nord) -->
 
  
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksks723)](https://solved.ac/ksks723)
+<!--[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksks723)](https://solved.ac/ksks723)-->
 [![sku's 42 stats](https://badge42.herokuapp.com/api/stats/sku?privacyEmail=true)](https://profile.intra.42.fr/blocs/27/coalitions)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:52d7f4,100:d0e0e3&height=100&section=footer)
