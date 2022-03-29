@@ -13,7 +13,7 @@
  
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksks723)](https://solved.ac/ksks723)
-[![sku's 42 stats](https://badge42.herokuapp.com/api/stats/sku?privacyEmail=true)](https://profile.intra.42.fr/blocs/27/coalitions)
+<!--[![sku's 42 stats](https://badge42.herokuapp.com/api/stats/sku?privacyEmail=true)](https://profile.intra.42.fr/blocs/27/coalitions)-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ffd966,100:ffd966&height=100&section=footer)
 
