@@ -4,7 +4,7 @@
 
 [![tistory](https://img.shields.io/badge/Tistory-tree--water-%23F68D2E?style=flat-square&logo=TVTime&logoColor=%23F68D2E)](https://tree-water.tistory.com)
 [![Velog](https://img.shields.io/badge/Velog-Jaranda-%2325A162?style=flat-square&logo=Vimeo&logoColor=%2325A162)](https://velog.io/@jaranda)
-
+[![sku's 42 stats](https://badge42.vercel.app/api/v2/cl1s4vz6b003009miqjelrwr1/stats?cursusId=21&coalitionId=85)](https://github.com/ksks723/42-cursus)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksks723)
 
