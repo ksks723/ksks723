@@ -7,7 +7,7 @@
 
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ksks723)
-[![sku's 42 stats](https://badge42.vercel.app/api/v2/cl1lghcyu003009i75ac9q5x8/stats?cursusId=21&coalitionId=85)](https://github.com/ksks723/42-cursus)
+
 <!--![git-stat-commit](https://github-readme-stats.vercel.app/api?username=ksks723&count_private=true&show_icons=true&theme=nord&hide_border=true)
 <!-- ![git-stat-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksks723&layout=compact&hide_border=true&theme=nord) -->
 
