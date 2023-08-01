@@ -12,7 +12,7 @@
 <!-- ![git-stat-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksks723&layout=compact&hide_border=true&theme=nord) -->
 
  
-
+![git-stat-commit](https://github-readme-stats.vercel.app/api/top-langs/?username=ksks723&layout=compact&hide_border=true)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksks723)](https://solved.ac/ksks723)
 
 
