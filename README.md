@@ -37,7 +37,7 @@
 
 ### 현장을 읽고, 시스템을 짜고, AI로 연결합니다
 **Python · LLM · RAG · Automation**  
-제주 기반 | AI 전공 재학 중
+AI 전공 
 
 </div>
 
