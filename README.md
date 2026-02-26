@@ -37,7 +37,7 @@ AI 전공
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksks723&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksks723&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksks723&theme=dark&hide_border=true)
 
 </div>
